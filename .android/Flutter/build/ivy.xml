@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
+<<<<<<< HEAD
   <info organisation="com.example.flutter_module_rn" module="flutter" revision="1.0" status="integration" publication="20220112013144"/>
+=======
+  <info organisation="com.example.flutter_module_rn" module="flutter" revision="1.0" status="integration" publication="20220111204633"/>
+>>>>>>> 7c2aa04ae681a65593a688ac108f777b8cdd5b74
   <configurations>
     <conf name="_internal_aapt2_binary" visibility="private" transitive="false"/>
     <conf name="androidApis" visibility="public"/>
